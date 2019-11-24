@@ -1,7 +1,7 @@
 # Spring-Boot-Mongo-DB
 
 [![Build Status](https://travis-ci.org/codecentric/springboot-sample-app.svg?branch=master)](https://travis-ci.org/codecentric/springboot-sample-app)
-[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![License](https://img.shields.io/:license-gnu-blue.svg)](#)
 
 ## Requirements
 
