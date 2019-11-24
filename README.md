@@ -34,4 +34,4 @@ If you want to access the app from outside your OpenShift installation, you have
 oc expose springboot-sample-app --hostname=www.example.com
 ```
 
-All thanks to [JournalDev] for a good tutorial that help me get kickstarted. (https://www.journaldev.com/18156/spring-boot-mongodb#spring-boot-mongodb-summary) 
+All thanks to [JournalDev](https://www.journaldev.com/18156/spring-boot-mongodb#spring-boot-mongodb-summary) for a good tutorial that help me get kickstarted. 
