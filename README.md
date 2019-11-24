@@ -1,7 +1,6 @@
 # Spring-Boot-Mongo-DB
 
 [![Build Status](https://travis-ci.org/codecentric/springboot-sample-app.svg?branch=master)](https://travis-ci.org/codecentric/springboot-sample-app)
-[![Coverage Status](https://coveralls.io/repos/github/codecentric/springboot-sample-app/badge.svg?branch=master)](https://coveralls.io/github/codecentric/springboot-sample-app?branch=master)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ## Requirements
@@ -35,4 +34,4 @@ If you want to access the app from outside your OpenShift installation, you have
 oc expose springboot-sample-app --hostname=www.example.com
 ```
 
-All thanks to [JournalDev] (https://www.journaldev.com/18156/spring-boot-mongodb#spring-boot-mongodb-summary) for a good tutorial that help me get kickstarted.
+All thanks to [JournalDev] for a good tutorial that help me get kickstarted. (https://www.journaldev.com/18156/spring-boot-mongodb#spring-boot-mongodb-summary) 
